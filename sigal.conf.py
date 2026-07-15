@@ -17,7 +17,7 @@ theme = "photoswipe"
 use_orig = True
 
 # Thumbnail grid: show each complete graph (no crop) inside a uniform box.
-make_thumbs = True
+make_thumbs = False
 thumb_size = (320, 240)
 thumb_fit = False
 
