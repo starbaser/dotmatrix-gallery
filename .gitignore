@@ -1,0 +1,15 @@
+# sigal build output
+/build/
+/_build/
+
+# kitstore runtime FUSE mount (the projection is tracked via kitstore.nix)
+/.kitstore/
+
+# nix
+/result
+/result-*
+/site
+
+# python
+__pycache__/
+*.pyc
