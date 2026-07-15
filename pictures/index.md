@@ -1,3 +1,3 @@
-Title: dotmatrix
+Title: Directed
 
-A gallery of Graphviz graph renderings — directed, undirected, and named reference graphs.
+Directed graph renderings.
