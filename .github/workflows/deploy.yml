@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: determinatesystems/nix-installer@main
+      - uses: cachix/install-nix-action@v27
       - name: Build gallery
         run: nix develop --command sigal build
       - uses: actions/configure-pages@v5
