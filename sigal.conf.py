@@ -6,7 +6,7 @@ source = "pictures"
 destination = "build"
 
 title = "dotmatrix"
-author = "eigenmage"
+author = "starbaser"
 
 # photoswipe: mobile-first lightbox with pinch / double-tap zoom to full
 # resolution. Best theme for reading fine graph detail.
